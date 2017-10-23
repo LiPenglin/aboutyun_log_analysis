@@ -6,6 +6,7 @@
 2. [Intellij Idea搭建Spark Streaming开发环境(SBT版本)](http://www.aboutyun.com/thread-20855-1-1.html)
 3. [Intellij Idea手动添加本地依赖](http://www.aboutyun.com/thread-20907-1-1.html)
 4. [zookeeper+kafka+flume 安装配置](https://www.zybuluo.com/peerslee/note/697646)
+5. [安装包](http://pan.baidu.com/s/1jI26gHw)
 
 ## API
 
